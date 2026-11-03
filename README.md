@@ -35,7 +35,11 @@ A fan-made, personal-use Yu-Gi-Oh! game for Windows and Android, built on the op
 - **Tier 2** is the middle ring: 10 cups. Win all of them to unlock Tier 3.
 - **Tier 3** is the inner ring: 9 cups with the most game-changing rules. Clear all of them to unlock the final cup on the sun: the **Seal of Orichalcos**.
 - Earn a title for each step: Field Adept, Frontier Warden, Field Master and Field Sovereign. Prize DP goes up with each tier, and the first clear of a cup pays a bonus.
-- Singles cups are 32-duelist brackets. Tag cups are 64 duelists in 32 teams and come in two modes: Knockout and Shared Field (Tag Force style). Singles and Tag are separate ladders, so neither unlocks the other.
+- Singles cups are 32-duelist brackets.
+- Tag cups are 64 duelists in 32 teams and come in two modes, each with its own ladder:
+  - **Knockout**: by default, nobody can attack until all 4 duelists have had a turn.
+  - **Shared Field** (Tag Force style): each team shares one field and 8,000 LP, and attacks open on turn 2 like a normal duel.
+- Singles, Tag Knockout and Tag Shared Field are separate ladders, and none of them unlocks another.
 - Winning a cup unlocks its field rule as an option in Free Duel.
 
 ## Credits
