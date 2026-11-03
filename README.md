@@ -8,7 +8,7 @@ A fan-made, personal-use Yu-Gi-Oh! game for Windows and Android, built on the op
 - **Tournaments**: preset cups plus a new bracket mode with Singles (up to 32), Tag (up to 64) and CPU vs CPU. Watch or skip each match.
 - **Toon Corner Card Shop**: real booster sets priced by age, daily singles, the Creator's Private Collection (15,000 DP) and buy-once Starter and Structure Decks.
 - **Trunk and Deck Editor**: collect cards, build 40-card decks and use duelist deck recipes. Follows the current TCG rules, with an optional Forbidden & Limited list.
-- **Minigames**: DP-earning minigames such as Blackjack, darts, Card Toss Range, Attribute Sort, Spirit Shell and Who Dueled With It.
+- **Minigames**: DP-earning minigames such as Blackjack, darts, Card Toss Range, Attribute Sort, and Spirit Shell
 - **Duel features**: a pause that truly freezes the duel, Restart Duel, and controller, keyboard, mouse and touch (Android) support.
 - **Updates**: an in-game update check, plus a custom installer and updater.
 
