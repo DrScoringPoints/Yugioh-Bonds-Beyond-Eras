@@ -27,7 +27,16 @@ A fan-made, personal-use Yu-Gi-Oh! game for Windows and Android, built on the op
 - A Tag Force 3-style heart and partner system.
 - Knockout Tag: a 2-vs-2 mode with 4 separate fields and 8,000 LP each. Knock out one opponent and it becomes 2-on-1. Defend your partner with your own monsters, run up to 4 Field Spells at once, and pick the turn order and Extra Monster Zone layout. Also coming to Tournament mode.
 - Era Formats: 5 rulesets (DM+GX, 5D's, ZEXAL, ARC-V and Modern) that only allow cards from that era, judged by each card's first release date, so no Synchros in a DM+GX duel. Every duelist gets a hidden era deck built in the spirit of their time, with classic staples like Pot of Greed back in play. Era rules also come to tournaments, and the Trunk gets an Era filter.
-- Field Cups: preset tournament cups, Duelist Kingdom style. A field effect stays active for both players for the whole duel, can't be targeted, destroyed or removed, and no one can play a Field Spell. Only fields that are fair to both players are used, some adapted into house rules (like every Tribute Summon needing 1 fewer Tribute). 30 cups unlock progressively in tiers, from easy stat fields (Umi, Yami, Mountain) through rule-changers (Necrovalley, Zombie World) to wild ones (Clear World, Black Garden, Ojama Country, Dimensional Fissure), ending with a final Seal of Orichalcos cup where both players have the Seal. Winning a cup unlocks its field as a rule in Free Duel options.
+### Star Circuit (Field Cups)
+- **Star Circuit** is a tournament mode with 30 Field Cups. Each cup uses a real Field Spell as a house rule that applies to both players for the whole duel.
+- The cup's field card sits in both Field Zones, can't be destroyed, and can't be bought or obtained anywhere. Neither player can play Field Spells.
+- The menu is a cosmic orbit map: three rings of cups circling a sun.
+- **Tier 1** is the outer ring: 10 cups with the simplest effects (like Umi or Yami), open from the start. Win **all** of them to light up Tier 2.
+- **Tier 2** is the middle ring: 10 cups. Win all of them to unlock Tier 3.
+- **Tier 3** is the inner ring: 9 cups with the most game-changing rules. Clear all of them to unlock the final cup on the sun: the **Seal of Orichalcos**.
+- Earn a title for each step: Field Adept, Frontier Warden, Field Master and Field Sovereign. Prize DP goes up with each tier, and the first clear of a cup pays a bonus.
+- Singles cups are 32-duelist brackets. Tag cups are 64 duelists in 32 teams and come in two modes: Knockout and Shared Field (Tag Force style). Singles and Tag are separate ladders, so neither unlocks the other.
+- Winning a cup unlocks its field rule as an option in Free Duel.
 
 ## Credits
 Built on EDOPro, with card data from YGOPRODeck. Yu-Gi-Oh! is © Konami. This is a non-commercial fan project.
