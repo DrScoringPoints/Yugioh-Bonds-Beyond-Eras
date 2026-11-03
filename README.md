@@ -7,7 +7,7 @@ A fan-made, personal-use Yu-Gi-Oh! game for Windows and Android, built on the op
 - **Degree**: Pick your degree in story mode, and earn perks in the story, your partners perk will also count.
 - **Partner Loyalty:**: Keep your partner happy by winning duels, and passing class, or they may find someone else to tag with!
 - **Free Duel**: duel any of 250 era-accurate duelists with your own deck, a borrowed deck or a rental deck. Tag up with any partner from any era, including 68 Original Characters.
-- **Tournaments**: preset cups plus a new bracket mode with Singles (up to 32), Tag (up to 64) and CPU vs CPU. Watch or skip each match.
+- **Tournaments**: Star Circuit plus a new bracket mode with Singles (up to 32), Tag (up to 64) and CPU vs CPU. Watch or skip each match.
 - **Toon Corner Card Shop**: real booster sets priced by age, daily singles, the Creator's Private Collection (15,000 DP) and buy-once Starter and Structure Decks.
 - **Trunk and Deck Editor**: collect cards, build 40-card decks and use duelist deck recipes. Follows the current TCG rules, with an optional Forbidden & Limited list.
 - **Minigames**: DP-earning minigames such as Blackjack, darts, Card Toss Range, Attribute Sort, and Spirit Shell
