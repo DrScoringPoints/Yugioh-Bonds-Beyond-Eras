@@ -25,6 +25,7 @@ A fan-made, personal-use Yu-Gi-Oh! game for Windows and Android, built on the op
 - A minigame overhaul with new modes and harder difficulties.
 - More variety in deck recipes.
 - A Tag Force 3-style heart and partner system.
+- Knockout Tag: a 2-vs-2 mode with 4 separate fields and 8,000 LP each. Knock out one opponent and it becomes 2-on-1. Defend your partner with your own monsters, run up to 4 Field Spells at once, and pick the turn order and Extra Monster Zone layout. Also coming to Tournament mode.
 
 ## Credits
 Built on EDOPro, with card data from YGOPRODeck. Yu-Gi-Oh! is © Konami. This is a non-commercial fan project.
