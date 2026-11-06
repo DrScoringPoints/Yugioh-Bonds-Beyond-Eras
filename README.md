@@ -1,4 +1,4 @@
-# Yu-Gi-Oh! Bonds Beyond Eras (BBE)
+# Yu-Gi-Oh! Star Meridian: Time Flies
 
 A fan-made, personal-use Yu-Gi-Oh! game for Windows and Android, built on the open-source EDOPro engine. It's inspired by Tag Force 3, with every anime era from Duel Monsters to VRAINS. Not affiliated with Konami, and not for sale.
 
